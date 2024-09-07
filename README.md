@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mohamed islam</h1>
 <h3 align="center">Full-Stack Developer | Building Dynamic Web Applications with Next.js, Node.js, and More | Passionate about Tech and Fitness</h3>
-<img alt="Coding" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" />
+<img alt="Coding" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif" />
 - 🔭 I’m currently working on **some cool projects**
 
 <h3 align="left">Connect with me:</h3>
