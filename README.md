@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=120&section=header&text=Mohamed%20Islam&fontSize=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=150&section=header&text=Mohamed%20Islam&fontSize=50&fontAlignY=35" width="100%" />
 </div>
 
 <table align="center" border="0">
